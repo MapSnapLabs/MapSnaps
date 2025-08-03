@@ -1,0 +1,2 @@
+# MapSnaps
+Initial commit placeholder.
