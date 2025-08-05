@@ -1,2 +1,2 @@
-# MapSnaps
-Initial commit placeholder.
+# MapSnaps MVP
+Basic mobile MVP for MapSnaps app.
