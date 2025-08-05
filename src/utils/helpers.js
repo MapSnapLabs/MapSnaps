@@ -1,1 +1,1 @@
-
+export const greet = () => 'Hello from MapSnaps!';
